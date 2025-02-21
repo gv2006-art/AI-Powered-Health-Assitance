@@ -22,7 +22,6 @@ Health Assistant is a Python-based application that provides personalized health
 - `src/health_assistant.py`: Contains the main application code.
 - `requirements.txt`: Lists the project dependencies.
 - `README.md`: Project documentation.
-- `LICENSE`: License information.
 - `.gitignore`: Specifies files and folders to ignore in the repository.
 
 ## Installation
